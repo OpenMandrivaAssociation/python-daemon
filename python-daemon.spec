@@ -1,5 +1,5 @@
 Name:           python-daemon
-Version:        1.5.5
+Version:        1.6
 Release:        %mkrel 1
 Summary:        Library to implement a well-behaved Unix daemon process
 Group:          Development/Python
@@ -32,9 +32,6 @@ rm -fr %{buildroot}%{python_sitelib}/tests
 
 %clean
 rm -rf %{buildroot}
-
-%check
-PYTHONPATH=$(pwd) nosetests
 
 %files
 %defattr(-,root,root,-)
