@@ -1,6 +1,6 @@
 Name:           python-daemon
 Version:        1.6
-Release:        %mkrel 1
+Release:        %mkrel 2
 Summary:        Library to implement a well-behaved Unix daemon process
 Group:          Development/Python
 License:        Python
