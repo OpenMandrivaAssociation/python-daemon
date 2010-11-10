@@ -7,6 +7,7 @@ License:        Python
 URL:            http://pypi.python.org/pypi/python-daemon
 Source0:        http://pypi.python.org/packages/source/p/%{name}/%{name}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
+BuildArch:	noarch
 
 BuildRequires:  python-devel
 BuildRequireS:  python-setuptools
