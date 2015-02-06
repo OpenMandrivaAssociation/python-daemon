@@ -1,6 +1,6 @@
 Name:           python-daemon
 Version:        1.6
-Release:        3
+Release:        4
 Summary:        Library to implement a well-behaved Unix daemon process
 Group:          Development/Python
 License:        Python
