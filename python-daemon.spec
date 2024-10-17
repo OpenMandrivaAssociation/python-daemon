@@ -4,7 +4,7 @@ Release:        4
 Summary:        Library to implement a well-behaved Unix daemon process
 Group:          Development/Python
 License:        Python
-URL:            http://pypi.python.org/pypi/python-daemon
+URL:            https://pypi.python.org/pypi/python-daemon
 Source0:        http://pypi.python.org/packages/source/p/%{name}/%{name}-%{version}.tar.gz
 BuildRequires:  python-devel
 BuildRequires:  python-setuptools
